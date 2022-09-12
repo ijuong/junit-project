@@ -1,7 +1,8 @@
 package com.util;
 
-public class Main {
-    public Boolean sendMail(){
-        return true;
-    }
-}
+// 구현되지 않은 클래스
+// public class Mail {
+//     public Boolean sendMail(){
+//         return true;
+//     }
+// }

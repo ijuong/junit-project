@@ -2,6 +2,11 @@ package com.ijuyong.junitproject.web.dto;
 
 import com.ijuyong.junitproject.domain.Book;
 
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+
+@NoArgsConstructor
+@Getter
 public class BookRespDto {
     private long id;
     private String title;
